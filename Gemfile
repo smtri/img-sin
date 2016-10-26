@@ -9,4 +9,4 @@ gem 'dotenv'
 gem 'mongoid'
 gem 'sinatra-initializers'
 gem 'active_model_serializers'
-
+gem 'carierwave'
